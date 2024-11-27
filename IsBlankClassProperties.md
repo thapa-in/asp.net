@@ -1,4 +1,4 @@
-``
+```
         public static string IsAnyClassPrpertiesEmpty(object classObject)
         {
             string message = string.Empty;
@@ -14,4 +14,4 @@
         }
 
 
-``
+```
